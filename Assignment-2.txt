@@ -1,0 +1,12 @@
+
+1) Implememnt encapsulation by accessing its below private members outside the class:
+ 1. private name
+2. private address
+3. private address
+4.private salary
+
+Salary is fixed =20000;
+
+2)create a method mutiply and overload it.
+
+3) Override sum function 

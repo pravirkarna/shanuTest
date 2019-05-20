@@ -1,0 +1,21 @@
+	
+	3) inheritance - when child aquired the property of parent class is known as inheritance
+			it can be father--child
+          		grandfather--father--child---
+
+	4) Abstraction - show only relevant data
+			1)interface - using interface multiple inheritance is possible.
+					it is simple java class where all methods are abstract.
+                                        all variable by default will be static and final.
+                                       inteface can not have objects 
+				an interface can extend only interface (can not extend class)
+				when we want 100% of abstraction we go for an interface.
+                                   note: interface can extend another inteface using extends keyword
+                                        a class can implement interface using implements keyword
+
+
+			2)Abstract class - It is like a simple class but it can not be instantiated(can not have object)
+                                           It can have abstract method as well as concrete(generalo or simple) method.
+                                           when we want to achieve partial abstraction we go for abstract class.
+					an abstract class can extend only one class or abstract class
+                                           

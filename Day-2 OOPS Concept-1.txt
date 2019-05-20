@@ -1,0 +1,17 @@
+ 	oop - programming based on concept of objects
+	
+	class - It is a blueprint /template where objects are created.
+                class=data type+ mathods to describe the behaviour/attribute of objects
+
+        object : an object is an instance of a class
+		object is an entity which has state and behavious.
+
+	Encapsulation : basically hiding the data from user.
+              		wrapping up of data and functions is called encapsulation.
+			also known as data hiding
+
+	Polymorphism : which can take more than one form
+                      1)Method overloading - static polymorphism- compile time polymorphism
+                      2) Method overriding - dynamic polymorphism -run time polymorphism
+
+

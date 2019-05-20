@@ -1,0 +1,94 @@
+
+computer - electronic device which takes raw data as input process it and returns us information as output.
+         computer has no self intelligence ,
+
+program - set of instrictions/cpmmand written in specific order
+
+programming language - a process of writing a program through which we will be communicating with machine/computer/cpu
+                       High Level 
+                       Low level language ( Machine Language,assembly language)
+
+
+ Low level- It is also known as machine language
+           pro: since it is written in binary it will be directly executed by cpu so it is fast
+          cons : difficult to learn,diffult to debug, take more time to write a code
+
+
+HLL - These are english like language which can be easily understood by programmer.
+      JAVA is a HLL.
+      pros:easy to code,easy to debug, more functionality with lesser code.           
+     
+      cons: we need a compiler/interpreter to convert this code to binary/ML
+            It is slow compare to Binary Language/LLL
+
+Compiler :- Its primary task is to compile HLL into MLL( it will convert entire code into single go/run)
+             faster 
+Interpretor - convert HLL into MLL(it will interprete line by line)
+              cons- slow compare to compiler
+
+
+ Reserved Keywords -(3)These are predefined words but does not contains a meaningful functionality.
+                      true
+                      false
+                      null
+ Keywords: These are predefined words that contains a meaningful functionality. there are 50 Keywords in Java ( goto,const)
+
+            Keywords for premitive data type :-8
+            bytes,short,int,long,float,double,char,boolean
+
+            Keywords for control flow :-11
+            if,else,for,do,while,switch,case,break,continue,default,return
+
+           Keywords for modifiers:-11
+           public,protected,private,static,final,abstract,synchronised,native,transient,volatile,strictfp(java1.2)
+
+           Keywords for exception handling :-6
+           try,catch,throw,throws,finally,assert
+
+           Keywords related to class concepts  :-7
+           class,interface,enum(java1.5),extends,implements,import,package
+
+           keywords related to objects:-4
+           this,super,instanceof,return
+       
+           Keywords related to return type :
+           void
+
+ NoTE- all the keywords/reserved keywords are in lower case and these are case sensitive
+
+
+JDK : Java Development KIt it contains everything that will be required to develop and run a java application
+      JDK= JRE+ Libraries required to develop Java application
+
+JRE : It contains everyrhing reqired to run a java application which has been compiled already.
+     JRE = JVM + Libraries to run application
+
+JVM : Java Virtual Machine whch sits on the top of CPU, it will only work with bytecode
+
+
+public static void main (string args[])
+
+public:- it is an access modifier who can accessed from anywhere(outside the package,class)
+static:- it menas the given method is not object related but class related.it can be accessed without creating an object/instance of a class
+void: it is a return type ,and void means it will not return anything
+main: It is name of a method,This method is a starting point for JVM
+string args:It is the parameter to the main method ,and arguement could be anything
+
+
+
+
+           
+
+
+          
+
+          
+	   
+	    
+
+           
+
+
+
+
+
